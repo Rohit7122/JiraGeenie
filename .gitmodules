@@ -1,0 +1,6 @@
+[submodule "jira-geenie-next"]
+	path = jira-geenie-next
+	url = https://CentauriAI@dev.azure.com/CentauriAI/JiraGeenie/_git/jira-geenie-next
+[submodule "jira-geenie-py"]
+	path = jira-geenie-py
+	url = https://CentauriAI@dev.azure.com/CentauriAI/JiraGeenie/_git/jira-geenie-py
